@@ -77,4 +77,3 @@ The model successfully identifies illicit transactions with high precision.
 ## 👨‍💻 Author
 **[Pavan Kumar Aadelli]**
 Data Science Portfolio Project
-```
